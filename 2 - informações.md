@@ -19,6 +19,8 @@
 
 * Terá banner?
 
+* Terá menu?
+
 * Terá marcas?
 
 * Terá redes sociais?
